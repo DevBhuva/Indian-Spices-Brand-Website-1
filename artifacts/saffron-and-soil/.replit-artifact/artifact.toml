@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Indian Spices Brand Website"
+description = "A premium brand showcase for an Indian spices company, featuring its product range, sourcing story, quality standards, recipes, and distributor contact."
+version = "1.0.0"
+id = "artifacts/saffron-and-soil"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19379
+
+[services.development]
+run = "pnpm --filter @workspace/saffron-and-soil run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/saffron-and-soil", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/saffron-and-soil/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19379"
+BASE_PATH = "/"

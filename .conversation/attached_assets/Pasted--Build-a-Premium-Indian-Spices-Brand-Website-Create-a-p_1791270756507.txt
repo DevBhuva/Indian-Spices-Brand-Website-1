@@ -1,0 +1,385 @@
+# Build a Premium Indian Spices Brand Website
+
+Create a premium, modern, visually rich **multi-page website for an Indian spices brand called “[BRAND NAME]”**.
+
+The website should feel like a serious, established Indian FMCG/spices company — combining **Indian heritage, authentic spices, premium packaging, modern design, trust, quality, and strong storytelling**.
+
+This is initially a **brand/portfolio website**, not a full e-commerce store. However, structure the architecture so e-commerce can be added later.
+
+---
+
+## 1. TECHNOLOGY STACK
+
+Use:
+
+- Next.js latest stable version
+- TypeScript
+- Tailwind CSS
+- shadcn/ui where useful
+- Framer Motion for animations
+- Lucide React icons
+- Responsive design
+- Component-based architecture
+- Clean reusable components
+- SEO-friendly structure
+- Optimized images
+- Modern CSS animations
+
+Do NOT create a generic template-looking website.
+
+The final result should look like a professionally designed FMCG brand website.
+
+---
+
+# 2. BRAND DESIGN
+
+## Overall Design Direction
+
+Create a visual identity based on:
+
+**Indian heritage + premium FMCG + modern minimalism**
+
+Use:
+
+- Warm ivory / cream backgrounds
+- Deep spice red
+- Dark maroon
+- Turmeric yellow
+- Saffron orange
+- Earthy brown
+- Charcoal/black text
+- Subtle green accents where appropriate
+
+Avoid making the entire website red.
+
+Use cream/off-white as the primary background and use spice colors strategically for buttons, highlights and sections.
+
+---
+
+# 3. TYPOGRAPHY
+
+Use a premium typography combination.
+
+Headings:
+
+- Playfair Display
+OR
+- Cormorant Garamond
+
+Body:
+
+- Inter
+OR
+- Manrope
+
+Headings should feel editorial and premium.
+
+Example:
+
+"THE SOUL OF INDIA,
+IN EVERY PINCH."
+
+Large typography should be used throughout the website.
+
+---
+
+# 4. VISUAL STYLE
+
+Use high-quality imagery of:
+
+- Indian spices
+- Turmeric
+- Red chilli
+- Coriander
+- Cumin
+- Cardamom
+- Black pepper
+- Cinnamon
+- Cloves
+- Garam masala
+- Indian farms
+- Farmers
+- Traditional Indian cooking
+- Premium spice bowls
+- Spice powders
+- Product packaging
+
+Use large cinematic images.
+
+Use subtle grain/noise textures.
+
+Use soft shadows.
+
+Use rounded corners moderately.
+
+Do not overuse glassmorphism.
+
+Do not use excessive gradients.
+
+The website should feel premium and authentic.
+
+---
+
+# 5. GLOBAL HEADER
+
+Create a sticky premium navbar.
+
+Desktop:
+
+Logo on the left.
+
+Navigation:
+
+Home
+About
+Products
+Quality
+Recipes
+Our Story
+Gallery
+Contact
+
+Right side:
+
+"Become a Distributor"
+
+button.
+
+Navbar should:
+
+- Start transparent over the hero
+- Become cream/white when scrolling
+- Have smooth transitions
+- Have subtle shadow after scrolling
+
+Mobile:
+
+- Logo
+- Hamburger menu
+- Full-screen/mobile navigation drawer
+
+---
+
+# 6. HOME PAGE
+
+Create a highly impressive homepage.
+
+## HERO SECTION
+
+Full-screen cinematic hero.
+
+Background:
+
+High-quality close-up image/video of Indian spices.
+
+Overlay subtle dark gradient.
+
+Content:
+
+Small label:
+
+"AUTHENTIC INDIAN SPICES"
+
+Main heading:
+
+"THE SOUL OF INDIA,
+IN EVERY PINCH."
+
+Supporting text:
+
+"Carefully sourced Indian spices crafted to bring authentic flavour, aroma and tradition to every kitchen."
+
+Buttons:
+
+"Explore Our Spices"
+
+"Discover Our Story"
+
+Add subtle animated spice particles or floating spice elements.
+
+Hero should have smooth entrance animation.
+
+Add scroll indicator at bottom.
+
+---
+
+# 7. BRAND INTRO SECTION
+
+Create a split-screen section.
+
+Left:
+
+Large editorial image of Indian spices/farmer.
+
+Right:
+
+Small label:
+
+"OUR PHILOSOPHY"
+
+Heading:
+
+"FROM INDIA'S SOIL
+TO YOUR KITCHEN."
+
+Description explaining:
+
+- Authentic Indian spices
+- Carefully selected ingredients
+- Quality-focused processing
+- Traditional flavour
+- Modern hygiene and packaging
+
+CTA:
+
+"Know Our Story →"
+
+---
+
+# 8. FEATURED PRODUCTS
+
+Heading:
+
+"FLAVOUR, CAREFULLY CRAFTED."
+
+Create premium product cards.
+
+Example products:
+
+- Turmeric Powder
+- Red Chilli Powder
+- Coriander Powder
+- Cumin Powder
+- Garam Masala
+- Black Pepper
+- Cumin Seeds
+- Cardamom
+- Cinnamon
+- Kitchen King Masala
+
+Each card should contain:
+
+- Product image
+- Product name
+- Short description
+- Category
+- Available sizes
+- View Product button
+
+Add hover animation.
+
+On hover:
+
+- Product image slightly zooms
+- Card moves upward slightly
+- CTA becomes visible
+
+Add:
+
+"View All Products →"
+
+---
+
+# 9. WHY CHOOSE US
+
+Create a premium 4-column section.
+
+Heading:
+
+"WHY [BRAND NAME]?"
+
+Cards:
+
+01
+AUTHENTIC SOURCING
+
+"Spices carefully selected from trusted Indian growing regions."
+
+02
+PURE FLAVOUR
+
+"Maintaining the natural aroma, colour and character of every spice."
+
+03
+QUALITY FIRST
+
+"Strict quality checks throughout processing and packaging."
+
+04
+MADE FOR EVERY KITCHEN
+
+"Authentic Indian flavour made simple for everyday cooking."
+
+Use minimal icons.
+
+---
+
+# 10. INDIAN SPICE MAP SECTION
+
+Create an interactive India map.
+
+Show different spice-growing regions.
+
+Examples:
+
+Gujarat
+Rajasthan
+Kerala
+Andhra Pradesh
+Karnataka
+Tamil Nadu
+Madhya Pradesh
+Uttar Pradesh
+
+When the user hovers/clicks a region:
+
+Show:
+
+Region name
+Major spices
+Short description
+
+Example:
+
+"Kerala"
+
+"Known for its premium black pepper, cardamom and cinnamon."
+
+Use animated map markers.
+
+---
+
+# 11. QUALITY SECTION
+
+Create a premium dark section.
+
+Heading:
+
+"PURE BY NATURE.
+PRECISE BY PROCESS."
+
+Show the journey:
+
+01
+SOURCE
+
+02
+SELECT
+
+03
+CLEAN
+
+04
+PROCESS
+
+05
+QUALITY CHECK
+
+06
+PACK
+
+Use horizontal scrolling animation on desktop.
+
+On mobile, convert to vertical timeline.
+
+Include

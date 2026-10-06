@@ -1,0 +1,1315 @@
+# VANAM — PREMIUM INDIAN SPICE HOUSE
+
+Create a premium, cinematic, multi-page brand website for an Indian spice brand called:
+
+# VANAM
+
+Position VANAM as a **royal Indian spice house** combining India's rich spice heritage with contemporary luxury.
+
+This must NOT look like a generic grocery website, Shopify template, local masala website, or standard portfolio website.
+
+It should feel like a sophisticated premium FMCG brand that could eventually compete visually with established Indian and international food brands.
+
+---
+
+# BRAND IDENTITY
+
+Brand:
+
+VANAM
+
+Brand category:
+
+Premium Indian Spices & Masalas
+
+Brand personality:
+
+- Royal
+- Authentic
+- Refined
+- Natural
+- Indian
+- Timeless
+- Premium
+- Warm
+- Trustworthy
+- Modern
+
+Core concept:
+
+> INDIA'S SPICE HERITAGE, REIMAGINED.
+
+Primary brand line:
+
+> VANAM  
+> A HERITAGE OF INDIAN FLAVOUR.
+
+Alternative supporting line:
+
+> From the lands of India to kitchens around the world.
+
+---
+
+# VISUAL DIRECTION
+
+The website should combine:
+
+INDIAN HERITAGE
+
++
+
+ROYAL CRAFTSMANSHIP
+
++
+
+MODERN LUXURY
+
++
+
+PREMIUM FOOD PHOTOGRAPHY
+
++
+
+EDITORIAL DESIGN
+
+The final experience should feel closer to a luxury fashion/heritage brand website than a grocery store.
+
+---
+
+# COLOUR PALETTE
+
+Primary:
+
+Deep Burgundy
+#4A1018
+
+Royal Maroon
+#641522
+
+Warm Ivory
+#F7F0E2
+
+Antique Gold
+#C7A15A
+
+Charcoal
+#171311
+
+Supporting:
+
+Saffron
+#C8752D
+
+Earth Brown
+#705039
+
+Deep Forest
+#26372C
+
+Use ivory as the main background.
+
+Use burgundy for important sections.
+
+Use gold sparingly.
+
+Do not make the entire website gold.
+
+---
+
+# TYPOGRAPHY
+
+Use:
+
+Playfair Display
+
+for major headings.
+
+Use:
+
+Manrope
+
+for body text and navigation.
+
+Typography should feel editorial and premium.
+
+Large headings should use generous spacing.
+
+Example:
+
+THE ESSENCE
+
+OF INDIA.
+
+---
+
+# LOGO
+
+Create a refined wordmark presentation:
+
+VANAM
+
+Use uppercase serif typography.
+
+If an existing logo is supplied, use the supplied logo instead.
+
+Do not create a random logo automatically.
+
+Create enough whitespace around the logo.
+
+---
+
+# GLOBAL NAVIGATION
+
+Desktop:
+
+VANAM
+
+OUR STORY
+SPICES
+ORIGINS
+QUALITY
+RECIPES
+JOURNAL
+CONTACT
+
+Right side:
+
+BECOME A DISTRIBUTOR
+
+Make the navbar sticky.
+
+Initial navbar:
+
+Transparent over hero.
+
+After scrolling:
+
+Warm ivory background
+
+Subtle gold bottom border
+
+Smooth transition.
+
+---
+
+# HOMEPAGE
+
+Route:
+
+/
+
+---
+
+## HERO
+
+Full-screen cinematic hero.
+
+Use an atmospheric photograph/video of:
+
+Fresh Indian spices
+
+Turmeric
+
+Red chilli
+
+Black pepper
+
+Cardamom
+
+Cumin
+
+Traditional Indian textures
+
+Wood
+
+Stone
+
+Brass
+
+The lighting should be warm and cinematic.
+
+Do not use bright supermarket photography.
+
+Hero content:
+
+Small label:
+
+EST. INDIA
+
+Main heading:
+
+THE ESSENCE
+
+OF INDIA.
+
+Supporting text:
+
+"India's timeless spice heritage, carefully selected and crafted for the modern world."
+
+Buttons:
+
+EXPLORE THE COLLECTION
+
+DISCOVER VANAM
+
+Add subtle scroll indicator.
+
+---
+
+# BRAND INTRODUCTION
+
+Large ivory section.
+
+Small gold label:
+
+THE VANAM PHILOSOPHY
+
+Heading:
+
+"MORE THAN A SPICE.
+
+A STORY OF INDIA."
+
+Paragraph:
+
+"Across generations, spices have shaped India's kitchens, cultures and traditions. VANAM brings that heritage forward through carefully selected ingredients, thoughtful craftsmanship and an uncompromising approach to quality."
+
+Add elegant gold divider.
+
+---
+
+# SIGNATURE COLLECTION
+
+Heading:
+
+THE VANAM COLLECTION
+
+Subheading:
+
+"Discover the ingredients behind India's most unforgettable flavours."
+
+Show premium spice cards.
+
+Products:
+
+Turmeric
+
+Red Chilli
+
+Coriander
+
+Cumin
+
+Black Pepper
+
+Cardamom
+
+Cinnamon
+
+Cloves
+
+Fennel
+
+Fenugreek
+
+Garam Masala
+
+Chaat Masala
+
+Kitchen King Masala
+
+Each card must look premium and editorial.
+
+Do not use standard ecommerce cards.
+
+Use large photography with typography overlays.
+
+---
+
+# EVERY SPICE MUST HAVE ITS OWN PAGE
+
+This is extremely important.
+
+Do not put all spice information on one page.
+
+Create dedicated routes:
+
+/spices/turmeric
+
+/spices/red-chilli
+
+/spices/coriander
+
+/spices/cumin
+
+/spices/black-pepper
+
+/spices/cardamom
+
+/spices/cinnamon
+
+/spices/cloves
+
+/spices/fennel
+
+/spices/fenugreek
+
+/spices/mustard-seeds
+
+/spices/bay-leaf
+
+/spices/garam-masala
+
+/spices/chaat-masala
+
+/spices/kitchen-king
+
+---
+
+# INDIVIDUAL SPICE PAGE
+
+Every spice page must feel like an editorial story.
+
+Example:
+
+/spices/turmeric
+
+Hero:
+
+Large cinematic turmeric photograph.
+
+Small label:
+
+THE GOLDEN SPICE
+
+Heading:
+
+TURMERIC
+
+Subheading:
+
+"India's golden essence."
+
+---
+
+## INTRODUCTION
+
+Short premium description.
+
+Example:
+
+"Celebrated across Indian kitchens for generations, turmeric brings warmth, earthy character and its unmistakable golden hue to countless dishes."
+
+Do not write exaggerated health claims.
+
+---
+
+# SPICE PROFILE
+
+Create elegant information blocks:
+
+ORIGIN
+
+India
+
+CHARACTER
+
+Earthy • Warm • Aromatic
+
+COLOUR
+
+Golden Yellow
+
+AROMA
+
+Warm & Distinctive
+
+FORM
+
+Powder
+
+---
+
+# ORIGIN
+
+Heading:
+
+WHERE IT BEGINS
+
+Show the major Indian growing regions associated with that spice.
+
+Use accurate information.
+
+Do not invent origins.
+
+---
+
+# THE FLAVOUR
+
+Explain:
+
+Taste
+
+Aroma
+
+Texture
+
+Colour
+
+Culinary character
+
+---
+
+# IN THE KITCHEN
+
+Show beautiful food photography.
+
+Examples:
+
+Curries
+
+Rice
+
+Vegetables
+
+Marinades
+
+Traditional dishes
+
+---
+
+# PAIRS BEAUTIFULLY WITH
+
+Show related spices.
+
+Example:
+
+Cumin
+
+Black Pepper
+
+Coriander
+
+Ginger
+
+---
+
+# VANAM QUALITY
+
+Explain:
+
+Sourcing
+
+Selection
+
+Cleaning
+
+Processing
+
+Packaging
+
+Do not make unsupported certifications or purity claims.
+
+---
+
+# AVAILABLE SIZES
+
+100g
+
+200g
+
+500g
+
+1kg
+
+Make these visually elegant.
+
+---
+
+# RELATED SPICES
+
+Show three related spice pages.
+
+---
+
+# CTA
+
+"DISCOVER MORE OF VANAM"
+
+---
+
+# SPICE ORIGINS
+
+Route:
+
+/origins
+
+Heading:
+
+THE LANDS
+
+BEHIND THE FLAVOUR.
+
+Do NOT use a fake AI-generated India map.
+
+If a map is used, use a proper geographically accurate SVG/GeoJSON source.
+
+Preferred design:
+
+Create a cinematic editorial exploration of Indian regions.
+
+---
+
+# REGION CARDS
+
+KERALA
+
+"Where pepper and cardamom thrive among mist-covered landscapes."
+
+Spices:
+
+Black Pepper
+
+Cardamom
+
+Cinnamon
+
+---
+
+GUJARAT
+
+"Known for fragrant seeds and vibrant spice cultivation."
+
+Spices:
+
+Cumin
+
+Fennel
+
+Coriander
+
+---
+
+RAJASTHAN
+
+"Where dry landscapes produce intensely aromatic spices."
+
+Spices:
+
+Cumin
+
+Coriander
+
+Chilli
+
+---
+
+ANDHRA PRADESH
+
+"Known for bold, vibrant chillies."
+
+Spices:
+
+Red Chilli
+
+---
+
+KARNATAKA
+
+"Rich landscapes known for some of India's finest aromatic spices."
+
+Spices:
+
+Black Pepper
+
+Cardamom
+
+---
+
+MADHYA PRADESH
+
+"An important growing region for several Indian spices."
+
+Spices:
+
+Coriander
+
+Chilli
+
+---
+
+Each region should have:
+
+Large photography
+
+Region name
+
+Short story
+
+Spices
+
+DISCOVER REGION button
+
+---
+
+# ORIGIN DETAIL PAGES
+
+Create dynamic routes:
+
+/origins/kerala
+
+/origins/gujarat
+
+/origins/rajasthan
+
+etc.
+
+Each page:
+
+Landscape hero
+
+Region story
+
+Climate
+
+Growing conditions
+
+Spices
+
+Traditional usage
+
+Sourcing
+
+Related spice pages
+
+---
+
+# OUR STORY
+
+Route:
+
+/our-story
+
+Hero:
+
+ROOTED IN INDIA.
+
+CRAFTED FOR THE WORLD.
+
+Sections:
+
+THE BEGINNING
+
+WHY SPICES
+
+THE VANAM PHILOSOPHY
+
+OUR CRAFT
+
+OUR PEOPLE
+
+OUR FUTURE
+
+Use large editorial photography between sections.
+
+---
+
+# QUALITY
+
+Route:
+
+/quality
+
+Hero:
+
+QUALITY IS OUR SIGNATURE.
+
+Process:
+
+01 SOURCE
+
+02 SELECT
+
+03 CLEAN
+
+04 PROCESS
+
+05 TEST
+
+06 PACK
+
+Create a cinematic horizontal timeline on desktop.
+
+Vertical timeline on mobile.
+
+Use subtle gold connecting lines.
+
+---
+
+# FARM & SOURCING
+
+Create:
+
+FROM THE LANDS
+
+THAT GROW FLAVOUR.
+
+Show:
+
+Indian farms
+
+Farmers
+
+Spices
+
+Harvest
+
+Processing
+
+Sourcing
+
+Only use claims that Vanam can verify.
+
+---
+
+# RECIPES
+
+Route:
+
+/recipes
+
+Design it like a luxury food magazine.
+
+Categories:
+
+INDIAN CLASSICS
+
+REGIONAL
+
+EVERYDAY
+
+FESTIVE
+
+VEGETARIAN
+
+NON-VEGETARIAN
+
+Recipe cards:
+
+Image
+
+Recipe name
+
+Cooking time
+
+Difficulty
+
+Spices used
+
+---
+
+# RECIPE DETAIL
+
+Dynamic route:
+
+/recipes/[slug]
+
+Hero
+
+Recipe story
+
+Ingredients
+
+Preparation
+
+Cooking method
+
+Spices used
+
+Vanam spice links
+
+Chef tip
+
+Related recipes
+
+---
+
+# JOURNAL
+
+Route:
+
+/journal
+
+Create editorial content.
+
+Possible articles:
+
+"The Journey of Indian Spices"
+
+"Why Cumin Defines Gujarati Cuisine"
+
+"Inside India's Spice Regions"
+
+"The Story Behind Garam Masala"
+
+"From Farm to Kitchen"
+
+Each article should have:
+
+Large cover image
+
+Category
+
+Date
+
+Reading time
+
+Title
+
+Excerpt
+
+---
+
+# PACKAGING
+
+Create a premium packaging showcase section.
+
+Heading:
+
+CRAFTED TO PROTECT
+
+WHAT NATURE CREATED.
+
+Show Vanam packaging from:
+
+Front
+
+Back
+
+Side
+
+Close-up
+
+Multiple products
+
+Use dramatic lighting.
+
+---
+
+# GALLERY
+
+Route:
+
+/gallery
+
+Create immersive masonry gallery.
+
+Categories:
+
+SPICES
+
+ORIGINS
+
+FARMS
+
+CRAFT
+
+PACKAGING
+
+FOOD
+
+PEOPLE
+
+Use a sophisticated lightbox.
+
+---
+
+# DISTRIBUTORS
+
+Route:
+
+/distributors
+
+Hero:
+
+BRING THE FLAVOUR
+
+OF INDIA TO YOUR MARKET.
+
+Sections:
+
+Why VANAM
+
+Our Collection
+
+Retail Opportunity
+
+Distribution
+
+Support
+
+Enquiry
+
+Form:
+
+Name
+
+Company
+
+Country
+
+State
+
+City
+
+Phone
+
+Email
+
+Business Type
+
+Message
+
+Button:
+
+START A CONVERSATION
+
+---
+
+# CONTACT
+
+Route:
+
+/contact
+
+Hero:
+
+LET'S TALK
+
+ABOUT FLAVOUR.
+
+Contact details.
+
+WhatsApp CTA.
+
+Email.
+
+Phone.
+
+Address.
+
+Contact form.
+
+---
+
+# FOOTER
+
+Dark burgundy/charcoal.
+
+Logo:
+
+VANAM
+
+Tagline:
+
+A HERITAGE OF INDIAN FLAVOUR.
+
+Links:
+
+OUR STORY
+
+SPICES
+
+ORIGINS
+
+QUALITY
+
+RECIPES
+
+JOURNAL
+
+CONTACT
+
+DISTRIBUTORS
+
+Social media.
+
+Newsletter.
+
+Copyright.
+
+Use subtle gold border.
+
+---
+
+# MEGA MENU
+
+When hovering/clicking SPICES:
+
+WHOLE SPICES
+
+GROUND SPICES
+
+BLENDED MASALAS
+
+Then show:
+
+Turmeric
+Cumin
+Coriander
+Red Chilli
+Black Pepper
+Cardamom
+Cinnamon
+Cloves
+Fennel
+Fenugreek
+
+Include:
+
+VIEW ALL SPICES →
+
+---
+
+# ANIMATION SYSTEM
+
+Use Framer Motion.
+
+Animations should feel luxurious.
+
+Use:
+
+Slow image reveals
+
+Text fade-up
+
+Elegant line animations
+
+Image clipping
+
+Subtle parallax
+
+Product hover
+
+Page transitions
+
+Scroll-triggered sections
+
+Staggered typography
+
+Do NOT use excessive bouncing.
+
+Do NOT use flashy animations.
+
+Think:
+
+Luxury fashion brand.
+
+---
+
+# IMAGE STYLE
+
+All imagery must follow:
+
+Warm cinematic lighting
+
+Deep shadows
+
+Rich textures
+
+Natural spice colours
+
+Premium food photography
+
+Indian cultural context
+
+Brass / wood / stone elements
+
+Avoid generic stock photos.
+
+---
+
+# RESPONSIVE DESIGN
+
+Desktop:
+
+1440px
+
+1280px
+
+1024px
+
+Tablet:
+
+768px
+
+Mobile:
+
+390px
+
+375px
+
+360px
+
+Mobile must have its own carefully designed layout.
+
+Do not simply stack desktop sections.
+
+---
+
+# SEO
+
+Every spice page needs unique metadata.
+
+Example:
+
+Title:
+
+Vanam Turmeric | Premium Indian Turmeric
+
+Description:
+
+"Discover Vanam Turmeric — carefully selected Indian turmeric with rich colour, earthy character and authentic flavour."
+
+Implement:
+
+Metadata
+
+OpenGraph
+
+Sitemap
+
+Robots.txt
+
+Canonical URLs
+
+Semantic HTML
+
+Alt text
+
+Structured data where appropriate.
+
+---
+
+# TECH STACK
+
+Use:
+
+Next.js
+
+TypeScript
+
+Tailwind CSS
+
+Framer Motion
+
+Lucide React
+
+Next/Image
+
+Reusable components
+
+Dynamic routes
+
+---
+
+# DATA ARCHITECTURE
+
+Create:
+
+data/spices.ts
+
+data/origins.ts
+
+data/recipes.ts
+
+data/journal.ts
+
+data/navigation.ts
+
+Every spice should be represented by structured data.
+
+Example:
+
+{
+  slug: "turmeric",
+  name: "Turmeric",
+  title: "The Golden Spice",
+  description: "...",
+  origin: [...],
+  flavourProfile: [...],
+  aroma: "...",
+  uses: [...],
+  pairings: [...],
+  sizes: [...],
+  image: "...",
+  relatedSpices: [...]
+}
+
+---
+
+# IMPORTANT
+
+Do not duplicate content between spice pages.
+
+Every spice should have:
+
+Its own story
+
+Its own origin
+
+Its own flavour profile
+
+Its own uses
+
+Its own photography
+
+Its own related spices
+
+Its own SEO metadata.
+
+---
+
+# VANAM WEBSITE EXPERIENCE
+
+The complete website should feel like entering:
+
+"A modern Indian spice house with a centuries-old soul."
+
+The visual hierarchy should be:
+
+70% luxury editorial
+
+20% Indian heritage
+
+10% modern technology
+
+Do not turn it into a colourful Indian festival website.
+
+Keep it sophisticated.
+
+Keep it restrained.
+
+Keep it premium.
+
+Keep it memorable.
+
+---
+
+# FINAL DESIGN TEST
+
+Ask:
+
+Would this website look appropriate on the packaging of a ₹1,000+ premium spice collection?
+
+Would it look credible for international export?
+
+Would a premium hotel chef take the brand seriously?
+
+Would the website look good printed in a luxury food magazine?
+
+Would the homepage still look beautiful without animations?
+
+If the answer is yes, the design is successful.
+
+Build VANAM as a **premium digital brand experience, not simply a website.**
