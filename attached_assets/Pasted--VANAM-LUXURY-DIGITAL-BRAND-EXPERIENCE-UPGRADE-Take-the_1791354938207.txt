@@ -1,0 +1,1197 @@
+# VANAM — LUXURY DIGITAL BRAND EXPERIENCE UPGRADE
+
+Take the existing VANAM website specification and elevate it from a premium website into a **cinematic luxury digital brand experience**.
+
+Do not redesign the brand concept.
+
+Keep:
+
+VANAM
+
+"A Heritage of Indian Flavour"
+
+Royal Indian spice house
+
+Deep burgundy
+
+Warm ivory
+
+Antique gold
+
+Deep forest green
+
+Editorial typography
+
+Indian heritage
+
+Premium food photography
+
+But significantly improve the visual storytelling, animation, interactions, transitions and overall perceived quality.
+
+---
+
+# 1. FIRST IMPRESSION
+
+The website should feel expensive within the first 3 seconds.
+
+The visitor should immediately understand:
+
+VANAM = PREMIUM INDIAN SPICES
+
+But the website should reveal the brand story gradually rather than presenting everything immediately.
+
+The experience should feel like:
+
+Luxury fashion website
++
+Premium food brand
++
+Indian heritage museum
++
+Editorial magazine
++
+Modern technology
+
+---
+
+# 2. CINEMATIC LOADING EXPERIENCE
+
+Create a very short premium preloader.
+
+Background:
+
+Deep Burgundy
+
+Center:
+
+VANAM logo
+
+Below:
+
+A HERITAGE OF INDIAN FLAVOUR
+
+Animation:
+
+Logo slowly fades in.
+
+A thin antique-gold line draws underneath.
+
+A subtle grain texture moves in the background.
+
+Then the logo fades away and the homepage hero reveals itself.
+
+Duration:
+
+Maximum 1.5–2 seconds.
+
+IMPORTANT:
+
+Never make the user wait unnecessarily.
+
+On repeat visits, minimize or disable the preloader.
+
+---
+
+# 3. HERO — MAKE IT CINEMATIC
+
+Do NOT use a simple static hero.
+
+Create a cinematic hero experience.
+
+Background:
+
+Full-screen high-quality spice photography or video.
+
+Use slow camera movement.
+
+Example:
+
+A macro shot of saffron threads.
+
+Camera slowly moves toward the spice.
+
+Transition into:
+
+Turmeric
+
+Red chilli
+
+Black pepper
+
+Cardamom
+
+Then reveal the VANAM logo/text.
+
+---
+
+## HERO TEXT ANIMATION
+
+Small label:
+
+EST. INDIA
+
+Animate letters individually.
+
+Then:
+
+THE ESSENCE
+
+OF INDIA.
+
+First line appears.
+
+Second line follows with a subtle upward reveal.
+
+Do NOT use standard fade-in animations.
+
+Use:
+
+clip-path reveal
+
+mask animation
+
+or transform + opacity.
+
+---
+
+# 4. HERO MOUSE INTERACTION
+
+Add subtle mouse movement.
+
+Background image:
+
+Moves 8–15px according to cursor position.
+
+Foreground spice elements:
+
+Move slightly differently.
+
+Text:
+
+Moves minimally.
+
+This creates a premium depth/parallax effect.
+
+Do NOT exaggerate this.
+
+---
+
+# 5. FLOATING SPICE PARTICLES
+
+Create extremely subtle floating particles.
+
+Examples:
+
+Tiny saffron threads
+
+Cumin seeds
+
+Peppercorns
+
+Dust particles
+
+Use very low opacity.
+
+They should move slowly.
+
+The effect should feel atmospheric, not like a particle demo.
+
+On mobile:
+
+Reduce or disable this effect.
+
+---
+
+# 6. CUSTOM CURSOR
+
+Desktop only.
+
+Create a minimal luxury cursor.
+
+Normal:
+
+Small circular cursor.
+
+When hovering:
+
+SPICE CARD
+
+Cursor expands slightly and displays:
+
+DISCOVER
+
+When hovering:
+
+IMAGE
+
+Cursor displays:
+
+VIEW
+
+When hovering:
+
+BUTTON
+
+Cursor becomes a small gold ring.
+
+Keep it elegant.
+
+Never make the cursor distracting.
+
+---
+
+# 7. SCROLL EXPERIENCE
+
+Scrolling should feel like moving through a story.
+
+Do NOT simply stack sections.
+
+Use:
+
+Scroll-triggered image reveals
+
+Text reveals
+
+Horizontal movement
+
+Parallax
+
+Scale transitions
+
+Opacity transitions
+
+Mask reveals
+
+Large typography transitions
+
+---
+
+# 8. BRAND STATEMENT TRANSITION
+
+After hero:
+
+Large ivory section.
+
+Initially:
+
+"MORE THAN A SPICE."
+
+Then while scrolling:
+
+"A STORY OF INDIA."
+
+The second sentence should slowly appear as the first moves upward.
+
+Use large typography occupying most of the viewport.
+
+---
+
+# 9. SPICE COLLECTION — INTERACTIVE
+
+Do NOT use normal product cards.
+
+Create an editorial horizontal showcase.
+
+Desktop:
+
+Large spice image on the left.
+
+Information on the right.
+
+Bottom:
+
+01 / 12
+
+TURMERIC
+
+THE GOLDEN SPICE
+
+Use scroll wheel / horizontal drag to move between spices.
+
+Transition:
+
+Turmeric image slowly exits.
+
+Cumin image enters.
+
+Typography changes.
+
+Background subtly changes according to spice.
+
+---
+
+# 10. SPICE CARD HOVER
+
+When hovering a spice:
+
+Image slowly zooms.
+
+Background texture changes.
+
+Gold border appears.
+
+Spice name moves upward.
+
+Small text appears:
+
+DISCOVER TURMERIC →
+
+Use 500–800ms transitions.
+
+No aggressive effects.
+
+---
+
+# 11. INDIVIDUAL SPICE PAGE TRANSITION
+
+This is extremely important.
+
+When a visitor clicks:
+
+TURMERIC
+
+Do not simply load another page.
+
+Create a shared-element style transition.
+
+The turmeric image expands from the collection into the full-screen turmeric hero.
+
+Then reveal:
+
+THE GOLDEN SPICE
+
+TURMERIC
+
+This should feel like entering a new chapter.
+
+---
+
+# 12. SPICE PAGE — INTERACTIVE FLAVOUR PROFILE
+
+Create a visual flavour profile.
+
+Example:
+
+EARTHY
+WARM
+AROMATIC
+RICH
+
+Each characteristic appears as an animated line.
+
+Example:
+
+EARTHY ━━━━━━━━━━ 90%
+
+WARM ━━━━━━━━ 75%
+
+AROMATIC ━━━━━━━━━ 85%
+
+Keep it elegant.
+
+---
+
+# 13. SPICE ORIGIN STORY
+
+Instead of only showing text:
+
+"Origin: Gujarat"
+
+Create an animated storytelling section.
+
+Example:
+
+GUJARAT
+
+CUMIN
+
+Start with an atmospheric Gujarat landscape image.
+
+Then reveal:
+
+SOIL
+
+CLIMATE
+
+HARVEST
+
+SPICE
+
+Transition from landscape → spice close-up.
+
+This makes each spice feel like a journey.
+
+---
+
+# 14. ORIGINS SECTION
+
+Keep the instruction that no inaccurate AI-generated India map should be used. The existing specification explicitly calls for an accurate geographic asset if a map is used.
+
+Instead, make the primary experience:
+
+INDIA
+
+↓
+
+REGION
+
+↓
+
+SPICE
+
+↓
+
+STORY
+
+Use a beautiful vertical Indian-region discovery interface.
+
+---
+
+# 15. OPTIONAL ACCURATE INDIA MAP
+
+If implementing the map:
+
+Use a proper SVG/GeoJSON geographic source.
+
+Do NOT generate the geography manually.
+
+Add subtle gold region outlines.
+
+Hover:
+
+Region becomes highlighted.
+
+Tooltip:
+
+KERALA
+
+Black Pepper
+Cardamom
+Cinnamon
+
+Click:
+
+Open region story.
+
+Use animation:
+
+Region outline draws itself.
+
+Background image fades in.
+
+Region information slides in.
+
+---
+
+# 16. FARM TO PACK — CINEMATIC SCROLL
+
+Create a full-screen storytelling section.
+
+Stages:
+
+01
+
+THE LAND
+
+02
+
+THE HARVEST
+
+03
+
+THE SELECTION
+
+04
+
+THE CRAFT
+
+05
+
+THE PACK
+
+06
+
+YOUR KITCHEN
+
+Each stage occupies the screen.
+
+As the user scrolls:
+
+Image changes.
+
+Number changes.
+
+Text changes.
+
+A thin gold progress line moves across the screen.
+
+This should be one of the strongest sections on the website.
+
+---
+
+# 17. QUALITY SECTION
+
+Transform the current quality timeline into an interactive experience.
+
+Current process:
+
+SOURCE
+
+SELECT
+
+CLEAN
+
+PROCESS
+
+TEST
+
+PACK
+
+When the user reaches the section:
+
+The process line draws itself.
+
+Each number appears one by one.
+
+The corresponding image changes.
+
+The final stage reveals the VANAM package.
+
+---
+
+# 18. PACKAGING REVEAL
+
+Create a luxury packaging animation.
+
+Start:
+
+Dark background.
+
+Only a subtle silhouette is visible.
+
+As the user scrolls:
+
+Packaging slowly rotates.
+
+Light moves across the packaging.
+
+Gold logo becomes visible.
+
+Then:
+
+VANAM
+
+appears.
+
+CTA:
+
+DISCOVER THE COLLECTION
+
+If actual 3D packaging models are available, use Three.js / React Three Fiber.
+
+If not, use high-quality product photography with subtle 3D/parallax movement.
+
+Do not fake a poor-quality 3D model.
+
+---
+
+# 19. 3D SPICE EXPERIENCE
+
+Optional premium feature.
+
+Create a small interactive 3D spice object.
+
+Examples:
+
+Cardamom pod
+
+Star anise
+
+Peppercorn cluster
+
+Cinnamon bark
+
+Use React Three Fiber.
+
+Allow:
+
+Rotate
+
+Hover
+
+Slow automatic rotation
+
+Zoom
+
+Keep this limited to selected sections.
+
+Do not turn the entire website into a 3D demo.
+
+---
+
+# 20. ROYAL ORNAMENT ANIMATION
+
+Use very subtle Indian decorative elements.
+
+Examples:
+
+Gold line ornaments
+
+Botanical motifs
+
+Traditional geometric patterns
+
+Decorative corners
+
+Animate them by:
+
+Line drawing
+
+Slow fade
+
+Small scale reveal
+
+Do not use animated paisley everywhere.
+
+The heritage should feel sophisticated.
+
+---
+
+# 21. TYPOGRAPHY ANIMATION
+
+Create premium typography effects.
+
+Example:
+
+THE
+
+ESSENCE
+
+OF
+
+INDIA.
+
+Each line enters at a slightly different time.
+
+Use:
+
+Clip-path
+
+Transform
+
+Opacity
+
+Letter spacing
+
+Avoid generic:
+
+opacity: 0 → 1
+
+for everything.
+
+---
+
+# 22. PAGE TRANSITIONS
+
+Every major page should transition smoothly.
+
+Example:
+
+Homepage → Turmeric
+
+The image expands.
+
+Turmeric → Cumin
+
+Image crossfades.
+
+Recipes → Recipe
+
+Food image expands.
+
+Origins → Kerala
+
+Landscape expands.
+
+Use Framer Motion shared layout / view transitions where practical.
+
+---
+
+# 23. SOUND — OPTIONAL
+
+Add an optional ambient sound experience.
+
+DO NOT autoplay audio.
+
+Instead provide a tiny:
+
+SOUND ON / OFF
+
+control.
+
+If enabled:
+
+Very subtle Indian ambient sound.
+
+Examples:
+
+Wind
+
+Temple bell ambience
+
+Farm environment
+
+Soft traditional instrumental texture
+
+Keep it optional.
+
+Default:
+
+OFF.
+
+---
+
+# 24. RECIPE EXPERIENCE
+
+Make recipes feel like an editorial food magazine.
+
+When opening a recipe:
+
+Hero image fills screen.
+
+Recipe title overlays image.
+
+Scroll:
+
+Ingredients appear.
+
+Spices used appear as individual clickable objects.
+
+Click:
+
+TURMERIC
+
+→
+
+Open VANAM TURMERIC page.
+
+This creates a connected website ecosystem.
+
+---
+
+# 25. JOURNAL EXPERIENCE
+
+Do not make Journal look like a blog dashboard.
+
+Make it feel like a premium magazine.
+
+Large featured article.
+
+Smaller articles arranged editorially.
+
+Example:
+
+THE JOURNEY OF INDIAN SPICES
+
+Large image.
+
+Large serif title.
+
+Minimal metadata.
+
+---
+
+# 26. SCROLL PROGRESS
+
+Add a tiny premium scroll indicator.
+
+Top-right or bottom-right.
+
+Example:
+
+01
+
+—
+
+08
+
+It should indicate the current storytelling section.
+
+Use gold.
+
+Keep it subtle.
+
+---
+
+# 27. SECTION TRANSITIONS
+
+Avoid hard section breaks.
+
+Use:
+
+Image bleeding into next section.
+
+Dark → ivory transitions.
+
+Gold line separators.
+
+Large typography overlapping images.
+
+Occasional full-screen image transitions.
+
+The website should feel continuous.
+
+---
+
+# 28. LUXURY IMAGE TREATMENT
+
+Do not display images as basic rectangles.
+
+Use:
+
+Asymmetric cropping
+
+Full-bleed photography
+
+Portrait crops
+
+Overlapping images
+
+Image masks
+
+Rounded corners only when appropriate
+
+Thin gold frames
+
+Editorial compositions
+
+Some images should intentionally extend beyond the container.
+
+---
+
+# 29. MOBILE EXPERIENCE
+
+Do NOT simply remove desktop animations.
+
+Create mobile-specific animations.
+
+Use:
+
+Swipe spice collection
+
+Touch image transitions
+
+Reduced parallax
+
+Reduced particles
+
+Large typography
+
+Sticky bottom:
+
+EXPLORE SPICES
+
+button.
+
+Individual spice pages should feel excellent on mobile.
+
+---
+
+# 30. NAVIGATION ANIMATION
+
+Navbar should transform when scrolling.
+
+At top:
+
+Transparent.
+
+On scroll:
+
+Ivory background.
+
+Gold line.
+
+Logo becomes burgundy.
+
+Navigation becomes dark.
+
+Spices menu opens as a premium mega menu.
+
+Mega menu animation:
+
+0.5s smooth reveal.
+
+Use large spice thumbnails.
+
+---
+
+# 31. MEGA MENU
+
+SPICES
+
+WHOLE SPICES
+
+GROUND SPICES
+
+BLENDED MASALAS
+
+Then display selected spices.
+
+When hovering a spice:
+
+Its image appears on the right.
+
+Example:
+
+Hover:
+
+CARDAMOM
+
+Right side:
+
+Large cardamom photograph.
+
+"THE AROMATIC JEWEL"
+
+DISCOVER →
+
+This will make the navigation itself feel premium.
+
+---
+
+# 32. MICRO-INTERACTIONS
+
+Add small details everywhere.
+
+Buttons:
+
+Gold line sweeps across on hover.
+
+Links:
+
+Underline animates from left to right.
+
+Images:
+
+Subtle scale.
+
+Cards:
+
+Small vertical movement.
+
+Numbers:
+
+Count/reveal animation.
+
+Forms:
+
+Elegant focus animation.
+
+Do not animate everything.
+
+---
+
+# 33. CUSTOM SECTION LABELS
+
+Use small editorial labels:
+
+01 — THE HOUSE
+
+02 — THE COLLECTION
+
+03 — THE ORIGINS
+
+04 — THE CRAFT
+
+05 — THE TABLE
+
+06 — THE JOURNEY
+
+This makes the website feel like a carefully designed publication.
+
+---
+
+# 34. PREMIUM FOOTER
+
+Do not make a normal footer.
+
+Create a large dark burgundy ending section.
+
+Large text:
+
+BRING INDIA
+
+TO THE TABLE.
+
+Then:
+
+EXPLORE VANAM →
+
+Followed by the navigation.
+
+Logo.
+
+Socials.
+
+Newsletter.
+
+Use gold ornamentation.
+
+---
+
+# 35. FINAL CALL TO ACTION
+
+Before the footer:
+
+Full-screen cinematic image.
+
+Dark overlay.
+
+Text:
+
+"THE STORY DOESN'T END
+AT THE SPICE."
+
+Small text:
+
+"Discover the flavours, places and traditions behind VANAM."
+
+Button:
+
+EXPLORE VANAM
+
+---
+
+# 36. PERFORMANCE RULE
+
+Luxury does NOT mean slow.
+
+Maintain:
+
+Fast initial load
+
+Lazy loading
+
+Optimized images
+
+Next/Image
+
+Compressed videos
+
+Reduced motion on mobile
+
+GPU-friendly transforms
+
+Avoid unnecessary WebGL
+
+Do not load 20 large videos simultaneously.
+
+---
+
+# 37. ACCESSIBILITY
+
+Respect:
+
+prefers-reduced-motion
+
+keyboard navigation
+
+ARIA labels
+
+contrast
+
+focus states
+
+screen readers
+
+If reduced motion is enabled:
+
+Disable:
+
+Parallax
+
+Particles
+
+Complex page transitions
+
+Large transforms
+
+Keep the website fully usable.
+
+---
+
+# 38. FINAL EXPERIENCE
+
+The website should have a clear emotional progression:
+
+ARRIVAL
+
+↓
+
+CURIOSITY
+
+↓
+
+DISCOVERY
+
+↓
+
+HERITAGE
+
+↓
+
+CRAFT
+
+↓
+
+FLAVOUR
+
+↓
+
+TRUST
+
+↓
+
+DESIRE
+
+↓
+
+ACTION
+
+The visitor should finish thinking:
+
+"I want to know this brand."
+
+"I want to see the spices."
+
+"I want to taste this."
+
+"I want to buy this."
+
+"I want to stock this."
+
+---
+
+# FINAL CREATIVE DIRECTION
+
+Do not add features just because they are technically impressive.
+
+Every animation must serve the VANAM story.
+
+Every interaction must feel intentional.
+
+Every photograph must feel premium.
+
+Every transition must feel smooth.
+
+Every page must feel connected.
+
+The result should feel like:
+
+# VANAM
+
+## A HERITAGE OF INDIAN FLAVOUR.
+
+Not a website.
+
+A **digital luxury spice house.**
